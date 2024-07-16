@@ -8,7 +8,7 @@
 - 🎫 Ask me About Development
 - 🤔 I’m looking for help with Placements in Best StartUp
 - 📫  How to reach me:
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/riyas-m-23a9542b0/)
+<br /> [<img src="https://img.icons8.com/?size=100&id=Tsdefp8FjSAJ&format=png&color=000000" />](riyur017@gmail.com)
 - 😄 Pronouns: Techie
 
 ### I code in
