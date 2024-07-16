@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Riyas
 ---
 ##### software Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="300" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - ♑  I'm currently learning DSA
 - 👨‍💻  I'm looking to learn more about the Development
@@ -9,8 +9,6 @@
 - 🤔 I’m looking for help with Placements in Best StartUp
 - 📫  How to reach me: **riyur017@gmail.com**
 - 😄 Pronouns: Techie
-
---- 
 
 ## Connect With Me:
 <p align="left">
