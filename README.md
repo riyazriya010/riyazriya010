@@ -10,6 +10,8 @@
 - 📫  How to reach me: **riyur017@gmail.com**
 - 😄 Pronouns: Techie
 
+--- 
+
 ## Connect With Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/riyas-m-23a9542b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyas" height="30" width="40" /></a>
