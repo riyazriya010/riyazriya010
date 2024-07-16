@@ -23,7 +23,9 @@
 
 ---
 
-![Riyas's Git Status](https://github-readme-stats.vercel.app/api?username=riyazriya010&show_icons=true&theme=radical&&hide=issues,contribs)
+![Riyas's Git Status](https://github-readme-stats.vercel.app/api?username=riyazriya010&show_icons=true&theme=radical&&hide=issues)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyazriya010&show_icons=true&locale=en&layout=compact" alt="riyaz" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Riyas004?ext=contest&theme=dark)](https://leetcode.com/u/Riyas004/)
 
