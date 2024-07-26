@@ -23,14 +23,17 @@
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" />
 </div>
 
 ## Code Editor Tool:
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
 
 ## Database I Know:
+<div style="display:flex;">
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" />
+</div>
 
 ---
 
