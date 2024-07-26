@@ -17,8 +17,11 @@
 </p>
 
 ## Languages I Know:
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
 
 ## Code Editor Tool:
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
