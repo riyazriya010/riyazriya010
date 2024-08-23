@@ -18,8 +18,8 @@
 
 ## Languages I Know:
 <div style="display:flex;">
-<img height="40" width="150" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" /> 
-<img height="40" width="150" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" /> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
