@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Riyas
 ---
 ##### software Developer
-<iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="480" height="346" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p>
+![Software Developer](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
 
 - ♑  I'm currently learning React Js
 - 👨‍💻  I'm looking to learn more about the Development
