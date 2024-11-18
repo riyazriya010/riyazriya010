@@ -3,7 +3,7 @@
 ##### software Developer
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="right" width="300" height="200">
 
-- ♑  I'm currently learning React Js
+- ♑  I'm currently learning Next Js
 - 👨‍💻  I'm looking to learn more about the Development
 - 🎫 Ask me About Development
 - 🤔 I’m looking for help with Placements in Best StartUp
