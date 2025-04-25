@@ -4,11 +4,11 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="right" width="300" height="200">
 
 - ♑ I’m passionate about building scalable web applications and open to exciting full-stack development roles.
-- 👨‍💻  I'm looking to learn more about the Development
+- 🎯 Actively enhancing my skills and building real-world projects using the MERN stack.
 - 🎫 Ask me About Development
-- 🤔 I’m looking for help with Placements in Best StartUp
+- 🤔 I'm seeking placement opportunities in innovative startups where I can contribute and learn.
 - 📫  How to reach me: **riyur017@gmail.com**
-- 😄 Pronouns: Techie
+- 😄 Pronouns: Techy
 
 ## Connect With Me:
 <p align="left">
